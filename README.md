@@ -6,8 +6,8 @@
 
 #### 必要なもの
 
--Ubuntu20.04
--Raspberry Pi 4
+- Ubuntu20.04
+- Raspberry Pi 4
 
 #### 通信のやり方
 
