@@ -13,15 +13,22 @@
 
 ROSのインストールが必要  
 
+terminalの一つで```roscore```を実行しておく
+
 count.pyの通信を行いたいとき
 
+```ls -l count.py```  
 ```chmod +x count.py```  
 ```rosrun mypkg count.py```
+
+この時新しく文が出てこなければ準備OK
 
 twice.pyの通信を行いたいとき
 
 ```chmod +x twice.py```  
 ```rosrun mypkg twice.py```
+
+この時新しく文が出てこなければ準備OK
 
 #### 通信状態の確認法
 
